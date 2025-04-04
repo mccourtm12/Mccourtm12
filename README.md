@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcus McCourt
 
-I'm a recent graduate from Maastricht University with a degree in Business Engineering. I’m passionate about turning data into strategic insights — particularly at the intersection of **financial planning**, **data automation**, and **emerging technologies** like crypto.
+I'm a recent graduate from Maastricht University with a degree in Business Engineering. I’m passionate about turning data into strategic insights — particularly at the intersection of **financial planning**, **data automation**, and **emerging technologies**.
 
 ---
 
